@@ -1,0 +1,7 @@
+{
+  "name": "TaskAI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+} 

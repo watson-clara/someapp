@@ -1,0 +1,18 @@
+{
+  "appId": "com.taskai.app",
+  "appName": "TaskAI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "iosScheme": "ionic"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "Keyboard": {
+      "resize": "body",
+      "style": "dark"
+    }
+  }
+}
